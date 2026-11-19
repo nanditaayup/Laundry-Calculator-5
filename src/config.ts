@@ -32,7 +32,7 @@ export interface AddOnService {
 }
 
 export const STORE_INFO: StoreInfo = {
-  name: 'Laundry UMKM',
+  name: 'Laundry Shimmering',
   whatsapp_number: '628xxxxxxxxxx',
   opening_hours: '08:00 - 20:00 WIB',
   pickup_hours: '09:00 - 17:00 WIB',
