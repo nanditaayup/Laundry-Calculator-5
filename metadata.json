@@ -1,0 +1,6 @@
+{
+  "name": "LaundryCalc",
+  "description": "Katalog layanan resmi dan kalkulator estimasi biaya laundry dengan kirim pesanan ke WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
